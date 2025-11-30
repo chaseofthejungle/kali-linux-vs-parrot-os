@@ -1,6 +1,6 @@
 # Kali Linux vs. Parrot OS Overview Guide
 
-**TODO:** A brief overview guide of how Kali Linux and Parrot OS contrast and compare.
+**Description/Overview:** The two most popular ethical hacking Linux distros are [Kali Linux](https://www.kali.org/) and [Parrot OS](https://parrotsec.org/). This guide provides a brief overview, as well as similarities and differences between, these two popular distros and how their handle digital forensics, penetration testing, and other security-related considerations.
 
 #### Table of Contents
 
