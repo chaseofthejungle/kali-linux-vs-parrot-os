@@ -25,7 +25,11 @@
 
 ## <a name="compare">3. Kali Linux vs. Parrot OS Comparison Table</a>
 
-(TODO)
+| *Characteristic* | *Kali Linux* | *Parrot OS* |
+| :---: | :---: | :---: |
+| Popular Use Case | | |
+| Advantages | | |
+| Disadvantages | | |
 
 <hr />
 
