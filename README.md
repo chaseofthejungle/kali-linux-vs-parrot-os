@@ -25,7 +25,7 @@
 
 ## <a name="compare">3. Kali Linux vs. Parrot OS Comparison Table</a>
 
-| *Characteristic* | *Kali Linux* | *Parrot OS* |
+| *Characteristic* | [*Kali Linux*](https://www.kali.org/) | [*Parrot OS*](https://parrotsec.org/) |
 | :---: | :---: | :---: |
 | Popular Audience | Penetration Testers, Users with Advanced Linux and Security Knowledge  | Users Seeking Privacy and Security or Reduced Burden on Their Hardware. |
 | Advantages | Industry Grade/Popular in Large Organizations, Well-Documented/Supported, 600+ Already Installed Security Tools/Utilities. | Suitable as a Day-to-Day Operating System, Easy-to-Use GUI (MATE), Supports Privacy Apps/Utilities (e.g., Tor, AnonSurf), Modest Resource Requirements. |
