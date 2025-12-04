@@ -28,8 +28,9 @@
 | *Characteristic* | [*Kali Linux*](https://www.kali.org/) | [*Parrot OS*](https://parrotsec.org/) |
 | :---: | :---: | :---: |
 | Popular Audience | Penetration Testers, Users with Advanced Linux and Security Knowledge  | Users Seeking Privacy and Security or Reduced Burden on Their Hardware. |
-| Advantages | Industry Grade/Popular in Large Organizations, Well-Documented/Supported, 600+ Already Installed Security Tools/Utilities. | Suitable as a Day-to-Day Operating System, Easy-to-Use GUI (MATE), Supports Privacy Apps/Utilities (e.g., Tor, AnonSurf), Modest Resource Requirements. |
+| Advantages | Industry Grade/Popular in Large Organizations, Well-Documented/Supported, 600+ Already Installed Security Tools/Utilities. | Suitable as a Day-to-Day Operating System, Easy-to-Use GUI, Supports Privacy Apps/Utilities (e.g., Tor, AnonSurf), Modest Resource Requirements. |
 | Disadvantages | Not Suitable for Beginners, High Memory Consumption, Lack of Native Privacy Utilities. | Documentation Not as Thorough and Not as Many Apps/Utilities (as Kali Linux). |
+| GUI | Xfce (GNOME in older versions) | MATE (Can also integrate Xfce) |
 
 <hr />
 
