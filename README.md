@@ -6,8 +6,9 @@
 
 1. [Kali Linux Overview](#kali)
 2. [Parrot OS Overview](#parrot)
-3. [Kali Linux vs. Parrot OS Comparison Table](#compare)
-4. [Supplemental Resources](#supplemental)
+3. [Installations](#install)
+4. [Kali Linux vs. Parrot OS Comparison Table](#compare)
+5. [Supplemental Resources](#supplemental)
 
 <hr />
 
@@ -23,7 +24,13 @@
 
 <hr />
 
-## <a name="compare">3. Kali Linux vs. Parrot OS Comparison Table</a>
+## <a name="install">3. Installations</a>
+
+(TODO) 
+
+<hr />
+
+## <a name="compare">4. Kali Linux vs. Parrot OS Comparison Table</a>
 
 | **Characteristic** | [**Kali Linux**](https://www.kali.org/) | [**Parrot OS**](https://parrotsec.org/) |
 | :---: | :---: | :---: |
@@ -35,7 +42,7 @@
 
 <hr />
 
-## <a name="supplemental">4. Supplemental Resources</a>
+## <a name="supplemental">5. Supplemental Resources</a>
 
 * *[Kali Linux Official Website](https://www.kali.org/)*
 * *[Parrot OS Official Website](https://parrotsec.org/)*
