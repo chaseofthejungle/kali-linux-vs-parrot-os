@@ -39,6 +39,7 @@
 | *Disadvantages* | Not Suitable for Beginners, High Memory Consumption, Lack of Native Privacy Utilities. | Documentation Not as Thorough and Not as Many Apps/Utilities (as Kali Linux). |
 | *GUI* | Xfce (GNOME in older versions) | MATE (Can also integrate Xfce) |
 | *Package Manager* | APT | Also APT (both are Debian-based distros) |
+| *Distro Based On* | Debian | Also Debian |
 
 <hr />
 
